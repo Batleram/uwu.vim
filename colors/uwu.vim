@@ -4,7 +4,7 @@
 " LICENSE: MIT
 
 " Setting up the colors
-let s:uwu0_gui = "#1b2224"
+let s:uwu0_gui = "#2a2d2e"
 let s:uwu1_gui = "#f65b5b"
 let s:uwu2_gui = "#6bb05d"
 let s:uwu3_gui = "#e59e67"
